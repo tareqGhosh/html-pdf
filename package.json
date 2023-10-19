@@ -22,12 +22,12 @@
   },
   "homepage": "https://github.com/xxdannilinxx/html-pdf-lambda#readme",
   "dependencies": {
-    "chrome-aws-lambda": "^9.1.0",
-    "handlebars": "^4.7.7",
-    "puppeteer-core": "^21.3.8"
+    "@sparticuz/chromium": "^117.0.0",
+    "handlebars": "*",
+    "puppeteer-core": "*"
   },
   "devDependencies": {
-    "puppeteer": "^21.3.8"
+    "puppeteer": "*"
   },
   "directories": {
     "example": "example"
